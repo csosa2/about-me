@@ -20,15 +20,12 @@
 						About Me: Christina Sosa
 					</h1>
 					<h2>
-						Learn more about me
+						Welcome to my website!
 					</h2>
 				</div>
 			</header>
 			<main>
 				<div class="text-area">
-					<h2>
-						Welcome to my site!
-					</h2>
 				<div>
 					<img src="images/pyramidTop.jpg" alt="Top of Pyramid">
 					<p>
@@ -69,12 +66,13 @@
 					<p>
 						Last year I did something crazy. Something that I would have never done were it not for my coaches.
 						I competed in my first ever powerlifting meet. I never thought in a million years I would stand in
-						front of a large crowd, wearing a tight singlet, and have people intentionally stare at my
+						front of a large crowd, wearing a singlet, and have people intentionally stare at my
 						butt to see if I "hit depth" on my squat. It was one of the most exhausting days of my life, but I
-						made it through. I even set a state record in my class and got a cool medal!
+						made it through. It was an incredible experience.
 					</p>
 				</div>
-					<h3>
+					<!--Submission Form-->
+				<h3>
 						What's your favorite thing about New Mexico?
 					</h3>
 					<form method="post" id="contact">
