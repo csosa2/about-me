@@ -17,17 +17,17 @@
 			<header class="main-header">
 				<div class="container">
 					<h1 class="name">
-						About Me
+						About Me: Christina Sosa
 					</h1>
 					<h2>
-						Because I'm awesome like that.
+						Learn more about me
 					</h2>
 				</div>
 			</header>
 			<main>
 				<div class="text-area">
 					<h2>
-						Welcome to my site! Read below to learn more about <em>ME</em>!
+						Welcome to my site!
 					</h2>
 				<div>
 					<img src="images/pyramidTop.jpg" alt="Top of Pyramid">

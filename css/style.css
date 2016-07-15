@@ -1,3 +1,49 @@
+/*Global Page Styles*/
+
+h2 {
+	text-align: center;
+}
+
+body {
+	font-family: 'Athiti', sans-serif;
+	line-height: 1.6;
+	background-color: #eef6f6;
+}
+
+.container {
+	width: 90%;
+	margin: 0 auto;
+}
+
+div {
+	clear: both;
+	padding: 10px;
+	height: 20%;
+}
+
+br {
+	margin: 10%;
+}
+
+p {
+	font-family: 'Athiti', sans-serif;
+	text-align: justify;
+	padding: 50px 30px 50px 80px;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+/*Header Styles*/
+
+.main-header {
+	background: #3acec2;
+	padding: 1em 0;
+}
+
+/*Image Styles*/
+
 img {
 	max-height: 250px;
 	width: 20%;
@@ -8,34 +54,11 @@ img {
 	margin: 20px;
 }
 
-/*body styles*/
-body {
-	font-family: 'Athiti', sans-serif;
-	line-height: 1.6;
-	background-color: #eef6f6;
-}
-
-p {
-	font-family: 'Athiti', sans-serif;
-	text-align: justify;
-	padding: 50px 30px 50px 80px;
-}
-
-/* =================================
-  Base Layout Styles
-==================================== */
-/*Navigation*/
+/*Form Styles*/
 
 .name {
 	margin: 0;
 	text-align: center;
-}
-
-/* ---- Layout Containers ---- */
-
-.container {
-	width: 90%;
-	margin: 0 auto;
 }
 
 .text-area {
@@ -44,22 +67,7 @@ p {
 	height: 30%;
 }
 
-ul {
-	list-style-type: circle;
-	padding: 10px;
-	margin: 10px;
-}
-
-div {
-	clear: both;
-	padding: 10px;
-	height: 20%;
-}
-
-.main-header {
-	background: #3acec2;
-	padding: 1em 0;
-}
+/*Footer Style*/
 
 .main-footer {
 	clear: both;
@@ -68,7 +76,4 @@ div {
 	text-align: center;
 }
 
-/* ---- Page Elements ---- */
-br {
-	margin: 10%;
-}
+
