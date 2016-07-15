@@ -46,7 +46,7 @@
 					</p>
 				</div>
 				<div>
-					<img src="images/powerlifter.jpeg" alt="Powerlifting">
+					<img src="images/award.jpg" alt="medal">
 					<p>
 					For fun, I like to powerlift. Here are some things I learned through the sport:
 					</p>
