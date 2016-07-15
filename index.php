@@ -74,6 +74,38 @@
 						made it through. I even set a state record in my class and got a cool medal!
 					</p>
 				</div>
+					<h3>
+						What's your favorite thing about New Mexico?
+					</h3>
+					<form method="post" id="contact">
+						<table>
+							<tr>
+								<td>
+									<label>
+										Name:
+									</label>
+									<br>
+									<input type="text" name="name1" required>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<label>
+										Your Message:
+									</label>
+									<br>
+									<textarea maxlength="500" name="message" required>
+										500 characters max.
+									</textarea>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<input type="submit" value="Submit">
+								</td>
+							</tr>
+						</table>
+					</form>
 			</main>
 		</div>
 			<!--footer with copyright-->
